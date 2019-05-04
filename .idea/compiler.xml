@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="imooc-videos-dev-common" />
+        <module name="imooc-videos-dev-mapper" />
+        <module name="imooc-videos-dev-mini-api" />
+        <module name="imooc-videos-dev-pojo" />
+        <module name="imooc-videos-dev-service" />
+        <module name="myhahale-common" />
+        <module name="myhahale-mapper" />
+        <module name="myhahale-mini-api" />
+        <module name="myhahale-pojo" />
+        <module name="myhahale-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="imooc-videos-dev-common" target="1.8" />
+      <module name="imooc-videos-dev-mapper" target="1.8" />
+      <module name="imooc-videos-dev-mini-api" target="1.8" />
+      <module name="imooc-videos-dev-pojo" target="1.8" />
+      <module name="imooc-videos-dev-service" target="1.8" />
+      <module name="myhahale" target="1.8" />
+      <module name="myhahale-common" target="1.8" />
+      <module name="myhahale-mapper" target="1.8" />
+      <module name="myhahale-mini-api" target="1.8" />
+      <module name="myhahale-pojo" target="1.8" />
+      <module name="myhahale-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
